@@ -15,8 +15,8 @@ Here are some of the technologies I'm diving into:
 - **Platforms:** GitHub, Vercel
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ujjwal-sharma-mudgil&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-sharma-mudgil&layout=compact&theme=radical)
 
 ---
 *“The best way to predict the future is to invent it.”*## Hi there 👋
