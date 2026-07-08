@@ -1,0 +1,29 @@
+def run_quiz():
+    questions = [
+        {
+            "prompt": "What is the correct file extension for Python files?\n(a) .py\n(b) .pt\n(c) .pyt\n",
+            "answer": "a"
+        },
+        {
+            "prompt": "Which keyword is used to create a function in Python?\n(a) function\n(b) def\n(c) create\n",
+            "answer": "b"
+        },
+        {
+            "prompt": "What is the maximum number of blocks a single water source can flow horizontally in Minecraft?\n(a) 5 blocks\n(b) 7 blocks\n(c) 8 blocks\n",
+            "answer": "c"
+        }
+    ]
+    
+    score = 0
+    for q in questions:
+        user_answer = input(q["prompt"]).lower().strip()
+        if user_answer == q["answer"]:
+            score += 1
+            print("✨ Correct!\n")
+        else:
+            print(f"❌ Wrong! The correct answer was ({q['answer']}).\n")
+            
+    print(f"🏆 Quiz Finished! Your final score is {score}/{len(questions)}")
+
+if __name__ == "__main__":
+    run_quiz()
