@@ -19,7 +19,7 @@ Here are some of the technologies I'm diving into:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal-sharma-mudgil&layout=compact&theme=radical)
 
 ---
-*“The best way to predict the future is to invent it.”*## Hi there 👋
+*“The best way to predict the future is to invent it.”
 
 <!--
 **Ujjwal-sharma-mudgil/Ujjwal-sharma-mudgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
